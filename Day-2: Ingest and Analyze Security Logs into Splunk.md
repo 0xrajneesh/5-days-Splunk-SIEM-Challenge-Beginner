@@ -1,4 +1,4 @@
-# Day#18: Splunk Basics – SSH Log Analysis
+# Day#18: Ingest and Analyze Security Logs into Splunk
 
 ---
 
