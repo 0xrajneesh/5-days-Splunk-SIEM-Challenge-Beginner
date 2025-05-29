@@ -1,4 +1,4 @@
-# Day-3 Project: Create Your First Splunk Dashboard
+# Day-3: Create Your First Splunk Dashboard
 
 ## 🎯 Objective
 
