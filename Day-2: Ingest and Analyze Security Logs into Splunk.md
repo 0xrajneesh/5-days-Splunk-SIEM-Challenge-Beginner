@@ -1,4 +1,4 @@
-# Day#18: Ingest and Analyze Security Logs into Splunk
+# Day#2: Ingest and Analyze Security Logs into Splunk
 
 ---
 
